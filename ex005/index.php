@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Manioulação de string</title>
+    <title>Manipulação de string</title>
 </head>
 <body>
     <h1>Manipulação de String</h1>
